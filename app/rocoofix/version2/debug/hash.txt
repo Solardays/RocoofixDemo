@@ -1,0 +1,2 @@
+com/jc/rocoofixdemo/a.class:5e8632a635950bb2473f0aad2c34e32b20c84fbc
+com/jc/rocoofixdemo/MainActivity.class:bd644930e3eb77fa5485cc09655ae33aa0975d1f
